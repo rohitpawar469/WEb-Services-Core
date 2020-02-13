@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<purchase-order>
+	<products>
+		<product>
+			<product-code>Tshirt</product-code>
+			<quantity>245</quantity>
+		</product>
+		<product>
+			<product-code>Jeans</product-code>
+			<quantity>120</quantity>
+		</product>		
+	</products>
+	<shipping-address addresstype="permanent">
+		<address-line1>Circuit House</address-line1>
+		<address-line2>Church Road</address-line2>
+		<city>Nashik</city>
+		<state>MH</state>
+		<zip>423105</zip>
+		<country>India</country>
+	</shipping-address>
+</purchase-order>
